@@ -1,0 +1,9 @@
+../Core/User/OLED/OLED_0in96_rgb.c:38:13:OLED_Reset	8	static
+../Core/User/OLED/OLED_0in96_rgb.c:51:13:OLED_WriteReg	16	static
+../Core/User/OLED/OLED_0in96_rgb.c:73:13:OLED_WriteData	16	static
+../Core/User/OLED/OLED_0in96_rgb.c:100:13:OLED_InitReg	8	static
+../Core/User/OLED/OLED_0in96_rgb.c:150:6:OLED_0in96_rgb_Init	8	static
+../Core/User/OLED/OLED_0in96_rgb.c:178:6:OLED_0in96_rgb_Clear	16	static
+../Core/User/OLED/OLED_0in96_rgb.c:197:6:OLED_0in96_rgb_Clear_color	24	static
+../Core/User/OLED/OLED_0in96_rgb.c:225:6:OLED_0in96_rgb_Display	24	static
+../Core/User/OLED/OLED_0in96_rgb.c:250:6:OLED_0in96_rgb_Display_Part	24	static

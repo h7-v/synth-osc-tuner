@@ -1,0 +1,5 @@
+../Core/User/Config/DEV_Config.c:20:9:System_Init	1
+../Core/User/Config/DEV_Config.c:39:6:System_Exit	1
+../Core/User/Config/DEV_Config.c:53:9:SPI4W_Write_Byte	4
+../Core/User/Config/DEV_Config.c:93:6:Driver_Delay_ms	1
+../Core/User/Config/DEV_Config.c:98:6:Driver_Delay_us	2
