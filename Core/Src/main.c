@@ -1,9 +1,9 @@
 /* USER CODE BEGIN Header */
 /**
  *
- * STM32 based tuner
+ * STM32 based tuner for use with synth oscillators and Waveshare 128x64 displays.
+ * https://github.com/h7-v/synth-osc-tuner
  * Works best with sawtooth waveform.
- *
  *
  *
  * MAKE SURE TO USE THE CORRECT CLOCK SOURCE:
